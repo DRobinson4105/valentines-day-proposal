@@ -32,7 +32,7 @@ export default function Home() {
 				<>
 					<h1>Yay!!!!</h1>
 					<img
-						src="https://s6.ezgif.com/tmp/ezgif-6-619140af9f.gif"
+						src="https://media1.tenor.com/m/VWML1I5Q3aoAAAAd/milk-and.gif"
 					/>
 				</>
 			) : (
